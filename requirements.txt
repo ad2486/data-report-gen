@@ -1,0 +1,11 @@
+pandas
+openpyxl
+requests
+python-dotenv
+matplotlib
+reportlab
+rich
+typer
+pydantic
+pathlib
+matplotlib
