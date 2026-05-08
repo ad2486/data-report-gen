@@ -159,5 +159,5 @@ It became one of my first complete end-to-end automation systems.
 # License
 
 This project is licensed under the MIT License.
-See the LICENSE file for details.
+See the [LICENSE](LICENSE) file for details.
 
