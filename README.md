@@ -1,5 +1,3 @@
-# README.md
-
 # Data Report Generator
 
 🇺🇸 English | 🇧🇷 [Português](README.pt-BR.md)
